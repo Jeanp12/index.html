@@ -1,0 +1,179 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+<style>
+p.ex {
+ 	background-color: red;
+}
+</style>
+<style>
+p.ex3 {
+ 	background-color: gray;
+}
+</style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Port Chester-Rye Brook Public Library</title>
+<link rel="icon" type="image/png" href="/wls.png" />
+<link href="../boilerplate.css" rel="stylesheet" type="text/css">
+<link href="../Untitled-1.css" rel="stylesheet" type="text/css">
+
+<script src="../respond.min.js"></script>
+<script type="text/javascript">
+function MM_popupMsg(msg) { //v1.0
+  alert(msg);
+}
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+</script>
+</head>
+<body onLoad="MM_popupMsg('Double tap to zoom out. Scroll down to view the next page.')">
+
+<div class="gridContainer clearfix">
+  <div id="div1" class="fluid"> 
+    <div align="center">
+      <p><a href="index.html"><img src="../head_banner.png" alt="" width="448" height="102"/></a></p>
+      <hr>
+      <form id="form1" name="form1" method="post">
+        <label for="select">Your current Destination: Home<br>
+        Where would you like to go?:</label>
+        <select name="select" id="select" form="form1" onChange="MM_jumpMenu('parent',this,0)">
+          <option selected>Select Destination</option>
+          <option value="index.html">Home</option>
+          <option value="adults.html">Adults</option>
+          <option value="childrens.html">Childrens</option>
+          <option value="../childrens_programs_photo_album.html">Childrens Photo Album</option>
+          <option value="teens.html">Teens</option>
+          <option value="../calendars/Septembe_r.html">Events Calendar</option>
+          <option value="http://westchester.lib.overdrive.com/1A003B41-3B4D-4014-8C46-6693EF7C954E/10/50/en/default.htm">E-Books</option>
+          <option value="homebound.html">Homebound Service</option>
+          <option value="http://www.learningexpresshub.com/learningexpresslibrary">Learning Express</option>
+          <option value="libraryboard.html">Library Board</option>
+          <option value="library history.html">Library History</option>
+          <option value="missionstatement.html">Mission Statement</option>
+          <option>Online Resources</option>
+          <option value="../photoalbum.html">Library Photo Album</option>
+          <option value="library_borrowing_policy.html">Policies</option>
+          <option value="../How to Renew Your Items.pdf">Renewals</option>
+          <option value="mailto:3dprinting@portchester-ryebrooklibrary.org">Request your 3D Print</option>
+          <option value="resources.html">Resources</option>
+          <option value="http://www.tumblebooks.com/library/asp/customer_login.asp?accessdenied=%2Flibrary%2Fasp%2Fhome_tumblebooks%2Easp">Tumblebooks</option>
+          <option value="../calendars/Septembe_r.html">Upcoming Events</option>
+          <option value="http://www.portchesterny.com/pages/index">Village of Port Chester</option>
+          <option value="http://www.ryebrook.org/">Village of Rye Brook</option>
+          <option value="disclaimer.html">Website Disclaimer</option>
+          <option value="websites_for_kids.html">Websites for Kids</option>
+          <option value="http://www.westchesterlibraries.org/">WLS</option>
+          <option value="http://westls.ent.sirsi.net/client/en_US/wls_catalog/?">WLS Card Catalog</option>
+        </select>
+      </form>
+      <p class="ex3">Port Chester-Rye Brook Public Library</p>
+<hr>
+      <address>
+      1 Haseco Ave, Port Chester, NY 10573
+      </address>
+      <address>
+Phone: (914)939-6710
+      </address>
+      <a href="index.html">portchester-ryebrooklibrary.org</a>
+      <address>
+An Association  library for the villages of Port Chester and Rye Brook
+      </address>
+      <p><a href="https://www.facebook.com/pcrb.library"><img src="../facebk.JPG" width="147" height="53" alt=""/></a><a href="https://twitter.com/PCRBLIBRARY"><img src="../Twitter (1).jpg" width="53" height="53" alt=""/></a></p>
+      <p><span style="font-variant:normal; letter-spacing:normal; line-height:normal; orphans:auto; text-align:-webkit-center;  text-transform:none; white-space:normal; widows:auto; word-spacing:0px; -webkit-text-stroke-width:0px; display:inline !important; float:none; font-family:georgia; font-size:16px; color:rgb(51, 51, 255); font-style:normal; font-weight:bold; ">Visit the library on Facebook and Twitter. Click the buttons above.</span></p>
+      <p><span style="font-variant:normal; letter-spacing:normal; line-height:normal; orphans:auto; text-align:-webkit-center;  text-transform:none; white-space:normal; widows:auto; word-spacing:0px; -webkit-text-stroke-width:0px; display:inline !important; float:none; font-family:georgia; font-size:16px; color:rgb(51, 51, 255); font-style:normal; font-weight:bold; ">Visit Friends of the Library</span> <a href="https://www.facebook.com/groups/498483886873741/"><strong>Here</strong></a></p>
+      <hr>
+      <strong><span style="font-variant:normal; letter-spacing:normal; line-height:normal; orphans:auto; text-align:-webkit-center; text-transform:none; white-space:normal; widows:auto; word-spacing:0px; -webkit-text-stroke-width:0px; display:inline !important; float:none; font-family:georgia; font-size:15px; color: #FF0004; font-style:normal; font-weight:bold;">Website last modified September 3 2014</span></strong>
+      <blockquote>
+        <hr>
+      <strong>Our Library Hours</strong>
+      <p><strong>Adult Department</strong></p>
+      <p>Monday: 9:00 am - 9:00 pm</p>
+      <p>Tuesday: 9:00 am - 8:00 pm</p>
+      <p>Tuesday (July - August) 9:00 am - 5:00 pm</p>
+      <p>Wednesday-Saturday : 9:00 am - 5:00 pm </p>
+      <p>Saturday (July - August) 9:00 am - 12:00 noon </p>
+      <p>Sunday : Closed </p>
+      <p><strong>Childrens Department</strong></p>
+      <p>Monday & Tuesday : 9:00 am - 6:00 pm</p>
+      <p>Tuesday (July - August) 9:00 am - 5:00 pm</p>
+      <p>Wednesday-Saturday : 9:00 am - 5:00 pm</p>
+      <p>Saturday (July - August) 9:00 am - 12:00 noon</p>
+      <p>Sunday : Closed</p>
+      <blockquote>&nbsp;</blockquote>
+      <hr>
+      <p><a href="http://www.westchesterlibraries.org/listen-read/freegal/"><img src="../freegal.jpg" width="227" height="92" alt=""/></a></p>
+      <p class="ex3">The Freegal Music Service allows library patrons to download a select number of MP3 files each month.</p>
+      <hr>
+      <p><a href="http://www.westchesterlibraries.org/listen-read/freading/"><img src="../freading (1).jpg" width="227" height="92" alt=""/></a></p>
+      <p class="ex3">The Freading eBook Service allows library patrons to download a select number of eBooks each month.</p>
+        <hr>
+      <strong>Directions</strong>
+      <p class="ex3">Need directions on how to get to the library? <a href="https://www.google.com/maps/dir//Port+Chester+Public+Library,+1+Haseco+Ave,+Port+Chester,+NY+10573/@41.0141264,-73.6688107,12z/am=t/data=!3m1!4b1!4m11!4m10!1m0!1m5!1m1!1s0x89c297439a1b9d6b:0x5678e8a71a4c59e0!2m2!1d-73.668639!2d41.003633!2m1!6e4!3e2"><strong>Click here</strong></a>. Once there, just enter your starting point and press enter. Once you've done that you will be given a set of directions (located on the left) that shows you how to get to us.
+      <hr>
+      <strong>Local Museum Passes</strong>
+      <p><a href="../muspass.pdf"><img src="../061110_Button_MoreInfo.jpg" width="185" height="169" alt=""/></a></p>
+      <p class="ex3">Download audiobooks, eBooks, music, and videos to your computer, MP3 player, iPad, iPhone, iPod, Smart phone, and Kindle, Nook, Kobo, and Sony eReaders. </p>
+      <p><a href="http://westchester.lib.overdrive.com/176EFAB8-0487-4784-AD39-F992A246ADDB/10/411/en/default.htm"><img src="../audbks.jpg" width="187" height="95" alt=""/></a></p>
+      <p class="ex3">Click <a href="http://westchester.lib.overdrive.com/176EFAB8-0487-4784-AD39-F992A246ADDB/10/411/en/Help-QuickStartGuide.htm"><strong>here</strong></a> for the Quick Start Guide. Click <a href="http://overdrive.com/help-videos/"><strong>here</strong></a> for the Overdrive How-To Videos. Award-Winning Reading suggestions: click <a href="http://library.booksite.com/7278/nl/?list=CNL1&amp;group=EB2"><strong>here</strong></a>.  Sign Up for News on New Books <a href="http://www.booksite.com/texis/scripts/bookletter/addnluser.html?sid=7278"><strong>here</strong></a></p>
+      <blockquote>
+        <div align="center"><strong>Amazon Wishlist </strong></div>
+      </blockquote>
+      <p class="ex3"> How would you like to help the library? If you purchase something from our wish lists, it will be shipped directly to the library and we will place it on our shelves. You can find us on Amazon by <a href="http://www.amazon.com/gp/registry/wishlist/ref=wish_list"><strong>clicking here</strong>,</a> and then type in Port Chester-Rye Brook Public Library in the search box. We thank you in advance for your help.
+      <hr>
+      </p>
+<form method="get" id="searchForm" action="http://westls.ent.sirsi.net/client/embedded.search/wls_catalog">
+        <h5 align="center"><big style="font-weight: bold; font-style:
+                              italic;"><small>Catalog Search
+          <input name="q" type="text" required="required" id="q" form="searchForm" placeholder="Search" accesskey="s" title="Search" autocomplete="off" value="" size="30%" maxlength="256" />
+          <select name="lm" size="0" required id="lm">
+            <option value="Select One">Select One</option>
+            <option value="q">Everything</option>
+            <option value="MOVIE">Movies</option>
+            <option value="OVERDRIVE">OverDrive eBooks</option>
+            <option value="CHILDRENS'">Children's</option>
+            <option value="YA">Young Adult</option>
+            <option value="LARGEPRINT">Large Print</option>
+          </select>
+          <input type="submit" formnovalidate class="button" id="searchButton" title="Search" value="Search" />
+          <input name="ln" type="hidden" form="searchForm" value="en_US" />
+        </small></big></h5>
+      </form>
+      <hr>
+      <p><img src="../Home Page/Upcoming Events/upcoming_events.png" width="467" height="58" alt=""/></p>
+      <p><a href="../calendars/Septembe_r.html"><img src="../buttons/monthly.png" width="254" height="42" alt=""/></a></p>
+      <hr>
+      <p><img src="../Home Page/Upcoming Events/overgermany.png" width="295" height="84" alt=""/></p>
+      <hr>
+      <p>The Vincent Barbarisi Memorial Fund Presents: Over Germany in a Flying Fortress: My Experiences as a WWII Navigator aboard a B-17 Bomber. </p>
+      <p>Join us for a discussion with Mr. Alfred Benjamin who was the lead navigator aboard a WWII B-17 Bomber, escaped from behind enemy lines, received a Purple Heart, and earned 5 USAF Air Medals. The Port Chester-Rye Brook Public Library will host this event on <strong>Saturday, September 6th, 2014, 3:00 pm - 4:00 pm</strong>. Light refreshments to follow. The library is located at 1 Haseco Ave, Port Chester, NY 10573. For more information, please call us at (914) 939-6710. For directions on how to get to the library please <a href="https://www.google.com/maps/dir//Port+Chester+Public+Library,+1+Haseco+Ave,+Port+Chester,+NY+10573/@41.0141264,-73.6688107,12z/am=t/data=!3m1!4b1!4m11!4m10!1m0!1m5!1m1!1s0x89c297439a1b9d6b:0x5678e8a71a4c59e0!2m2!1d-73.668639!2d41.003633!2m1!6e4!3e2"><strong>click here</strong></a> and just enter your starting address.</p>
+      <p><a href="../Home Page/Upcoming Events/September 6th B-17 Bomber Flyer Final1.pdf"><img src="../buttons/fullflyer.png" width="196" height="49" alt=""/></a></p>
+      <p><a href="../Home Page/Upcoming Events/September 6th B-17 Bomber Flyer Final1.pdf"><img src="../Home Page/Upcoming Events/WWII.PNG" width="397" height="520" alt=""/></a></p>
+      <hr>
+      <p><img src="../Home Page/Upcoming Events/affordable.png" width="352" height="32" alt=""/><img src="../Home Page/Upcoming Events/affordable1.png" width="307" height="31" alt=""/><img src="../Home Page/Upcoming Events/affordable2.png" width="349" height="34" alt=""/></p>
+      <hr>
+      <p><strong>Tuesday, September 9, 2014 6:00 p.m. to 7:30 p.m.</strong> 1 Haseco Ave, Port Chester, NY 10573. For more information please contact the Information Desk at 914-939-6710. Presentation Provided by: Pinebrook Condominiums in Larchmont 51 one bedroom and two bedroom condos located at 2101-2105 Palmer Avenue, Larchmont, New York. Applications and Brochures will be available at the workshop. For directions on how to get to the library please <a href="https://www.google.com/maps/dir//Port+Chester+Public+Library,+1+Haseco+Ave,+Port+Chester,+NY+10573/@41.0141264,-73.6688107,12z/am=t/data=!3m1!4b1!4m11!4m10!1m0!1m5!1m1!1s0x89c297439a1b9d6b:0x5678e8a71a4c59e0!2m2!1d-73.668639!2d41.003633!2m1!6e4!3e2"><strong>click here</strong></a> and just enter your starting address.</p>
+      <p><a href="../Home Page/Upcoming Events/Affordable Housing Program V1.pdf"><img src="../buttons/fullflyer.png" width="196" height="49" alt=""/></a></p>
+      <p><a href="../Home Page/Upcoming Events/Affordable Housing Program V1.pdf"><img src="../Home Page/Upcoming Events/Affordable Housing Program V1.jpg" width="378" height="453" alt=""/></a></p>
+      <hr>
+      <p><img src="../Home Page/Upcoming Events/adoption.png" width="525" height="44" alt=""/> </p>
+      <p>Adoption: Everything you need to know at the Port Chester-Rye Brook Public Library <strong>On Monday, September 15th 2014, 6:30pm-8:00pm,</strong> Forever Families Through Adoption offers a free workshop for anyone interested in or involved in the adoption process, including professionals, community members, expectant parents, adoptive or prospective adoptive parents and adopters. Learn about both the domestic and international adoption processes. Se habla espanol.The library is located at 1 Haseco Avenue in Port Chester. For more information, call (914) 939-6710. For directions on how to get to the library please <a href="https://www.google.com/maps/dir//Port+Chester+Public+Library,+1+Haseco+Ave,+Port+Chester,+NY+10573/@41.0141264,-73.6688107,12z/am=t/data=!3m1!4b1!4m11!4m10!1m0!1m5!1m1!1s0x89c297439a1b9d6b:0x5678e8a71a4c59e0!2m2!1d-73.668639!2d41.003633!2m1!6e4!3e2"><strong>click here</strong></a> and just enter your starting address.</p>
+      <p><a href="../Home Page/Upcoming Events/Flyer-Port Chester-Rye Brook Library Adoption Sept 2014.pdf"><img src="../buttons/fullflyer.png" width="196" height="49" alt=""/></a></p>
+      <p><a href="../Home Page/Upcoming Events/Flyer-Port Chester-Rye Brook Library Adoption Sept 2014.pdf"><img src="../Home Page/Upcoming Events/Flyer- Port Chester-Rye Brook Library Adoption Sept 2014.jpg" width="392" height="478" alt=""/></a></p>
+      <hr>
+      <p><a href="index_page2.html"><img src="../buttons/next.png" width="63" height="38" alt=""/></a></p>
+      <hr>
+      <p><a href="#" target="_top">Back to Top</a>    </p>
+      <p>&nbsp;</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>
